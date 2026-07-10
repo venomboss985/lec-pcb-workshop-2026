@@ -81,8 +81,8 @@ Learn to design a simple PCB end-to-end using KiCad! And if time and budget perm
 ## Rough Schedule
 
 * **Day 1** (hybrid, 3-4 hrs.): *Anatomy of a PCB*
-  * What actually is a PCB and why do we need them
-  * Layer stack up and manufacturing specifications
+  * What is a schematic, PCB, and KiCad?
+  * Design patterns and PCB stackup
   * Intro to KiCad by creating a keychain light
 * **Day 2** (hybrid, 3-4 hrs.): *Project Design*
   * Choose a project and (hopefully) mostly finish a design
