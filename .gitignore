@@ -32,6 +32,7 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+bom/
 
 # Archived Backups (KiCad 6.0)
 **/*-backups/*.zip
@@ -41,3 +42,6 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+
+# Gerber outputs
+build/
