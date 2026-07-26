@@ -14,9 +14,9 @@ header: "*PCB Design Workshop* :computer:"
 <!-- _header: "" -->
 # LEC PCB Design Workshop 2026
 
-Learn to design a simple PCB end-to-end using KiCad! And if time and budget permits, we'll assemble and test the board YOU design!!
+Learn to design a simple PCB end-to-end using KiCad! And *if time and budget permits,* we'll assemble and test the board **YOU** :index_pointing_at_the_viewer: design!!
 
-<Insert KiCad logo here>
+![bg right w:600](../assets/global/KiCad-Logo.svg)
 
 **Presented by:** *Jake Monster*
 
@@ -91,18 +91,51 @@ Learn to design a simple PCB end-to-end using KiCad! And if time and budget perm
 <!-- _footer: "Specific dates will be posted later" -->
 ---
 
-## Project Ideas
+### Day 1a: Anatomy of a PCB
 
-* Simple DC-DC converter (9v to 3.3v/5v step-down converter)
-* Adj. brushed motor speed controller
-* Adj. clock signal generator (square waves go brrrr)
-* Light theramin (demo'd in LEC, prototype edition)
-* Simple MCU development board* (DIY Arduino with smaller chips)
-* Simple breakout board
-* Binary dice* (D20 but electrical and only goes up to 16...)
+***What the heck are we even building?***
 
-*These are just suggestions... if you have another idea, let me know!*
-<!-- _footer: "* - Would not recommend if not getting into firmware development" -->
+* What is a schematic and why are they so important?
+* Design patterns and the BOM
+* What is a PCB and why do we use them?
+* PCB stackup and manufacturing specifications
+
+<!-- Insert pcb layout of keychain led here -->
+
+---
+
+### Day 1b: Keychain LED
+
+**End-to-end example of a simple circuit**
+
+* Learn KiCad basics
+* Schematic best practices
+* Layout best practices
+* Create an interactive BOM
+* Assemble a kit!
+
+<!-- Insert keychain LED breadboard -> PCB image -->
+
+---
+
+### Day 2: Full Project Design
+
+* Choose from one of many prepared designs
+  * Or suggest an idea of your own!
+* Customize it as you like
+* Submit for design review (and assembly!)
+
+<!-- Insert custom board layout here -->
+
+---
+
+### Day 3: Assembly and Testing
+
+* Build the project you submitted
+* Learn to validate and solder boards
+* Use a power supply and oscilloscope for testing
+
+<!-- Insert assembled custom board here -->
 
 ---
 
