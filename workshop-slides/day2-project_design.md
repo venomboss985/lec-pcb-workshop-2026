@@ -25,3 +25,16 @@ header: "*PCB Design Workshop* :computer:"
 **Presented by:** *Jake Monster*
 
 ---
+
+## TOC
+
+* Simple DC-DC converter (9v to 3.3v/5v step-down converter)
+* Adj. brushed motor speed controller
+* Adj. clock signal generator (square waves go brrrr)
+* Light theramin (demo'd in LEC, prototype edition)
+* Simple MCU development board* (DIY Arduino with smaller chips)
+* Simple breakout board
+* Binary dice* (D20 but electrical and only goes up to 16...)
+
+*These are just suggestions... if you have another idea, let me know!*
+<!-- _footer: "* - Would not recommend if not getting into firmware development" -->
