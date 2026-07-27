@@ -45,3 +45,6 @@ bom/
 
 # Gerber outputs
 build/
+
+# for macOS
+.DS_Store
