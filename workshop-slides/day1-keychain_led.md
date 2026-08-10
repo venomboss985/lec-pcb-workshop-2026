@@ -25,5 +25,5 @@ header: "*Keychain LED* :bulb:"
 
 <!-- Insert pcb layout of keychain led here -->
 
-**Presented by:** *jul-*📧
+**Presented by:** *mr president julie!*
 <!-- _footer: "*waow*" -->

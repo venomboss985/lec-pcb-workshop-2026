@@ -18,7 +18,7 @@ Learn to design a simple PCB end-to-end using KiCad! And *if time and budget per
 
 ![bg right w:600](../assets/global/KiCad-Logo.svg)
 
-**Presented by:** *Jake Monster*
+**Presented by:** *mr president julie!*
 
 ---
 
@@ -161,4 +161,4 @@ https://github.com/venomboss985/lec-pcb-workshop-2026
   * Get a different result from replicating something I do
   * git/GitHub isn't working (likely an SSH token thing)
   * Encounter weird KiCad bugs
-* If remote, use the #:interrobang:-forum channel in LEC to ask questions about your project before the design review
+* If remote, use the :interrobang:`#forum ` channel in the LEC server to ask questions about your project before the design review

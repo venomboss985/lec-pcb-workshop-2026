@@ -22,7 +22,7 @@ header: "*PCB Design Workshop* :computer:"
 
 <Insert unpopulated pcb here>
 
-**Presented by:** *Jake Monster*
+**Presented by:** *mr president julie!*
 
 ---
 

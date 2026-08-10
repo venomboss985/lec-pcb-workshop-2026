@@ -23,7 +23,7 @@ header: "*Anatomy of a PCB* :zap:"
 
 <!-- Insert pcb layout of keychain led here -->
 
-**Presented by:** *Jake Monster*
+**Presented by:** *mr president julie!*
 
 ---
 
