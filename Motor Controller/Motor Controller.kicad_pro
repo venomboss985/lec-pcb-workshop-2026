@@ -70,7 +70,12 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "lib_footprint_mismatch|146815000|85612500|f57d5678-1b8b-4484-bc1d-44d518655d1d|00000000-0000-0000-0000-000000000000",
+          "ok buddy"
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -260,24 +265,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      [
-        "pin_not_connected|1073150|755650|eea1e712-8553-4912-b9f5-6fd7b6f21aa5|00000000-0000-0000-0000-000000000000|/1cd26abd-db46-485d-ab7c-b76b2d785696|/1cd26abd-db46-485d-ab7c-b76b2d785696|",
-        ""
-      ],
-      [
-        "pin_not_connected|1098550|755650|906a271b-23fb-4e37-8017-409958d4c8d6|00000000-0000-0000-0000-000000000000|/1cd26abd-db46-485d-ab7c-b76b2d785696|/1cd26abd-db46-485d-ab7c-b76b2d785696|",
-        ""
-      ],
-      [
-        "pin_not_connected|1123950|755650|f958145f-a1dd-49a3-902c-4bc30fc4fcfb|00000000-0000-0000-0000-000000000000|/1cd26abd-db46-485d-ab7c-b76b2d785696|/1cd26abd-db46-485d-ab7c-b76b2d785696|",
-        ""
-      ],
-      [
-        "power_pin_not_driven|1460500|698500|e4acb147-2acb-4f72-b62d-6001be0c4acd|00000000-0000-0000-0000-000000000000|/1cd26abd-db46-485d-ab7c-b76b2d785696|/1cd26abd-db46-485d-ab7c-b76b2d785696|",
-        ""
-      ]
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
@@ -677,7 +665,7 @@
         "uuid": "1cd26abd-db46-485d-ab7c-b76b2d785696"
       }
     ],
-    "used_designators": "U1,M1-2,#PWR1-8,BT1,RV1-2,A1,J1,#FLG1-2,C1-2",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
