@@ -74,22 +74,6 @@
         [
           "lib_footprint_mismatch|129004214|137375786|90a7e771-8dc1-4987-bea7-634b96c6a9a6|00000000-0000-0000-0000-000000000000",
           "edited silkscreen to not be clipped by solder mask!!"
-        ],
-        [
-          "silk_overlap|111631356|97454819|27e805d2-5bef-46ba-b96b-81f741148fd4|e9de30df-1c5d-422f-92d8-30c016f9f217",
-          ""
-        ],
-        [
-          "silk_overlap|120107547|97585786|139e6e6e-df2c-419f-9ba1-0004e4c37963|f5337ec0-8def-4881-891a-03cbdfd480e8",
-          ""
-        ],
-        [
-          "silk_overlap|88488499|97454819|53246c0a-8b9f-4c5c-b7f0-345dcce653a5|e3c6232f-ca45-4368-b809-0d7bad060692",
-          ""
-        ],
-        [
-          "silk_overlap|98345642|97454819|68c481e6-7bd3-4ac8-b15e-264d9a8a5f0e|71f8d636-8c93-4eb7-aca2-40eb8bcbdaa3",
-          ""
         ]
       ],
       "meta": {
@@ -545,7 +529,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "build",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
