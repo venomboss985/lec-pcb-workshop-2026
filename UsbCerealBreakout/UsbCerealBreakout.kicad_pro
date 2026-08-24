@@ -265,7 +265,12 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "power_pin_not_driven|1498600|889000|658dc58c-f70a-4343-bcb1-480a1a512b95|00000000-0000-0000-0000-000000000000|/4f3cc564-d206-4b89-a7c8-27fc89fac8d6|/4f3cc564-d206-4b89-a7c8-27fc89fac8d6|",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -529,7 +534,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "build",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
