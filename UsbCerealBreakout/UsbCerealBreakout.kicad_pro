@@ -70,7 +70,12 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "lib_footprint_mismatch|128887500|79445000|1e6029f6-43a8-4e8e-8c8e-188a8a4bb89b|00000000-0000-0000-0000-000000000000",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -661,7 +666,7 @@
         "uuid": "4f3cc564-d206-4b89-a7c8-27fc89fac8d6"
       }
     ],
-    "used_designators": "R1-2,C1-2,#PWR1-5,J1-3,U1-2,P1-2",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
