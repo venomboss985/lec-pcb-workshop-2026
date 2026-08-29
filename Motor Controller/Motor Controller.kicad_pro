@@ -70,12 +70,7 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [
-        [
-          "lib_footprint_mismatch|146815000|85612500|f57d5678-1b8b-4484-bc1d-44d518655d1d|00000000-0000-0000-0000-000000000000",
-          "ok buddy"
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -265,7 +260,32 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "pin_not_connected|1073150|755650|eea1e712-8553-4912-b9f5-6fd7b6f21aa5|00000000-0000-0000-0000-000000000000|/1cd26abd-db46-485d-ab7c-b76b2d785696|/1cd26abd-db46-485d-ab7c-b76b2d785696|",
+        ""
+      ],
+      [
+        "pin_not_connected|1098550|755650|906a271b-23fb-4e37-8017-409958d4c8d6|00000000-0000-0000-0000-000000000000|/1cd26abd-db46-485d-ab7c-b76b2d785696|/1cd26abd-db46-485d-ab7c-b76b2d785696|",
+        ""
+      ],
+      [
+        "pin_not_connected|1123950|755650|f958145f-a1dd-49a3-902c-4bc30fc4fcfb|00000000-0000-0000-0000-000000000000|/1cd26abd-db46-485d-ab7c-b76b2d785696|/1cd26abd-db46-485d-ab7c-b76b2d785696|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|1206500|596900|6cd83d3a-eea6-4eac-8dc9-ef55ebf52173|00000000-0000-0000-0000-000000000000|/1cd26abd-db46-485d-ab7c-b76b2d785696|/1cd26abd-db46-485d-ab7c-b76b2d785696|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|1320800|495300|b33c3c02-a54c-45c8-a61c-13e2e0c6962c|00000000-0000-0000-0000-000000000000|/1cd26abd-db46-485d-ab7c-b76b2d785696|/1cd26abd-db46-485d-ab7c-b76b2d785696|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|1460500|698500|e4acb147-2acb-4f72-b62d-6001be0c4acd|00000000-0000-0000-0000-000000000000|/1cd26abd-db46-485d-ab7c-b76b2d785696|/1cd26abd-db46-485d-ab7c-b76b2d785696|",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -529,7 +549,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "C:/Users/reidr/OneDrive/Documents/KiCad/Simple Motor Controller/Motor Controller/Gerbers yay sad/",
+      "plot": "Gerbers yay sad/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -666,7 +686,7 @@
         "uuid": "1cd26abd-db46-485d-ab7c-b76b2d785696"
       }
     ],
-    "used_designators": "",
+    "used_designators": "U1,M1-2,#PWR1-10,BT1,RV1-2,A1,C1-2,J1-2,#FLG1-2",
     "variants": []
   },
   "sheets": [
