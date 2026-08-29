@@ -60,7 +60,7 @@
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.5,
+          "min_clearance": 0.2,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
           "pad_connection": 1,
@@ -72,8 +72,8 @@
       "diff_pair_dimensions": [],
       "drc_exclusions": [
         [
-          "lib_footprint_mismatch|128887500|79445000|1e6029f6-43a8-4e8e-8c8e-188a8a4bb89b|00000000-0000-0000-0000-000000000000",
-          ""
+          "lib_footprint_mismatch|129292500|80595000|1e6029f6-43a8-4e8e-8c8e-188a8a4bb89b|00000000-0000-0000-0000-000000000000",
+          "i deleted the silkscreen outline on the footprint bc it was causing errors with routing on other layers"
         ]
       ],
       "meta": {
