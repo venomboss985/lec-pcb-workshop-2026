@@ -1969,7 +1969,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 101.854 80.137 0)
+			(at 101.854 79.883 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
